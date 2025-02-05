@@ -9,3 +9,5 @@
    flow</a>
 5. обновление локальной ветки через <a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">git
    merge</a>
+
+#### Версия Python на момент инициализации проекта - 3.13
