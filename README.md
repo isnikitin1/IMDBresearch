@@ -11,3 +11,4 @@
    merge</a>
 
 #### Версия Python на момент инициализации проекта - 3.13
+#### Описание датасетов и очистка данных https://docs.google.com/document/d/1Ch3rYkHg9Leh4AiD2SiBDO6UhiQ-Ojw_Y9nZVNP_U9c/edit?tab=t.0
